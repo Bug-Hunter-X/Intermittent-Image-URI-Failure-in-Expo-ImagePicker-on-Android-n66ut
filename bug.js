@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library.  The image picker successfully opens and the user selects an image. However, the selected image URI is not properly returned to the app, causing the image to not display or process correctly. The issue is intermittent and is observed across different Android devices.
